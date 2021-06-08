@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 12 (0xc)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AR, ST=BA, L=Sarandi, O=LDIR, OU=R&D, CN=Hal/name=Hal/emailAddress=me@myhost.mydomain
+        Validity
+            Not Before: May 10 02:28:53 2018 GMT
+            Not After : May  7 02:28:53 2028 GMT
+        Subject: C=AR, ST=BA, L=Sarandi, O=LDIR, OU=changeme, CN=changeme/name=changeme/emailAddress=me@myhost.mydomain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:e1:9a:34:1c:42:83:2f:f5:d6:3c:ab:eb:3d:e0:
+                    bc:00:65:14:56:a2:19:44:7b:23:0f:87:c4:58:56:
+                    ad:8b:4a:4f:a5:dc:12:ef:25:a6:b0:47:5a:ff:86:
+                    fe:ba:e5:09:cd:b0:4b:ac:37:bd:b3:bc:11:b8:8f:
+                    e6:2d:25:47:c5:91:55:ee:fb:7f:c8:ea:7e:60:43:
+                    22:c0:f6:04:b9:7a:7b:0c:ae:bb:8a:77:f9:8d:d6:
+                    81:16:7d:0a:2d:c8:d4:54:14:0f:a3:40:c0:58:37:
+                    b9:84:d8:aa:a6:94:44:7e:84:47:ba:99:2f:e6:c9:
+                    47:dd:e6:4d:4d:80:f5:d5:5e:38:6d:ff:96:27:24:
+                    2b:b0:5a:fa:33:e2:bb:b0:62:76:f8:9d:8e:c4:3b:
+                    29:5a:bc:74:42:69:e5:94:7b:1c:04:94:b4:5f:1c:
+                    07:72:90:de:93:df:cd:ab:d9:da:ee:8e:d8:98:66:
+                    a0:ac:c5:c1:a1:23:aa:97:d9:55:a5:cd:02:e4:b3:
+                    6f:28:20:f3:ff:a5:61:c9:74:a0:64:40:b2:23:a0:
+                    8c:ef:31:95:22:2a:ab:0e:29:de:47:08:00:cc:54:
+                    cb:f2:68:a1:55:8d:fc:b4:3f:1c:48:44:f6:e7:9f:
+                    42:06:ac:a7:d5:4e:a0:da:0f:74:3a:7a:26:41:24:
+                    d5:c5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                98:EA:71:0C:BB:B1:EF:F8:75:4A:CA:85:37:C6:05:34:A8:3F:B0:C2
+            X509v3 Authority Key Identifier: 
+                keyid:1A:44:E1:8B:2D:5D:A3:14:2E:66:67:05:1B:C6:65:DC:D9:6A:11:66
+                DirName:/C=AR/ST=BA/L=Sarandi/O=LDIR/OU=R&D/CN=Hal/name=Hal/emailAddress=me@myhost.mydomain
+                serial:BD:32:DE:FE:AA:3C:A2:C8
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha1WithRSAEncryption
+        08:bc:ba:c3:d2:22:8a:b2:42:78:7d:f9:6f:5a:4c:f1:42:89:
+        99:19:15:39:cf:44:e9:cd:bd:71:3a:29:ab:6a:a1:74:11:a9:
+        5a:24:f1:b5:6a:26:44:33:07:79:fe:ff:15:15:d4:b3:f8:47:
+        c0:a6:54:5a:c7:f9:7e:38:fd:89:50:55:7f:00:e4:c5:48:fb:
+        6c:59:8b:23:87:b3:34:f3:ce:f4:15:fe:c0:2c:b9:9b:d7:eb:
+        2f:62:6a:0f:0c:d4:dc:bf:5e:b9:e4:bc:1e:40:31:2d:d6:29:
+        ec:fb:b7:f2:7d:6d:7b:59:2b:f9:e7:8c:2a:8e:f2:db:c8:71:
+        cf:20:c4:64:1f:56:59:36:97:94:0c:35:7d:cc:70:c7:c2:25:
+        18:05:72:f6:b5:55:d3:9d:da:7e:79:53:0e:3b:14:7c:3d:15:
+        1c:55:39:08:d9:4d:83:06:fe:79:df:36:c2:84:8e:75:80:48:
+        5e:67:da:67:19:d6:c9:da:4c:d3:30:f7:64:f1:69:8f:7b:4a:
+        16:fe:c5:ad:af:d8:f7:12:5d:a9:40:cf:27:57:d9:00:54:b2:
+        bf:2a:53:9f:31:6a:f4:12:10:f1:5c:48:ea:4d:07:e1:fa:97:
+        98:85:9b:ce:5e:58:5c:17:01:3e:03:26:91:82:c2:6e:9c:6e:
+        f3:cb:ec:35
+-----BEGIN CERTIFICATE-----
+MIIE9zCCA9+gAwIBAgIBDDANBgkqhkiG9w0BAQUFADCBiDELMAkGA1UEBhMCQVIx
+CzAJBgNVBAgTAkJBMRAwDgYDVQQHEwdTYXJhbmRpMQ0wCwYDVQQKEwRMRElSMQww
+CgYDVQQLFANSJkQxDDAKBgNVBAMTA0hhbDEMMAoGA1UEKRMDSGFsMSEwHwYJKoZI
+hvcNAQkBFhJtZUBteWhvc3QubXlkb21haW4wHhcNMTgwNTEwMDIyODUzWhcNMjgw
+NTA3MDIyODUzWjCBlzELMAkGA1UEBhMCQVIxCzAJBgNVBAgTAkJBMRAwDgYDVQQH
+EwdTYXJhbmRpMQ0wCwYDVQQKEwRMRElSMREwDwYDVQQLEwhjaGFuZ2VtZTERMA8G
+A1UEAxMIY2hhbmdlbWUxETAPBgNVBCkTCGNoYW5nZW1lMSEwHwYJKoZIhvcNAQkB
+FhJtZUBteWhvc3QubXlkb21haW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDhmjQcQoMv9dY8q+s94LwAZRRWohlEeyMPh8RYVq2LSk+l3BLvJaawR1r/
+hv665QnNsEusN72zvBG4j+YtJUfFkVXu+3/I6n5gQyLA9gS5ensMrruKd/mN1oEW
+fQotyNRUFA+jQMBYN7mE2KqmlER+hEe6mS/myUfd5k1NgPXVXjht/5YnJCuwWvoz
+4ruwYnb4nY7EOylavHRCaeWUexwElLRfHAdykN6T382r2drujtiYZqCsxcGhI6qX
+2VWlzQLks28oIPP/pWHJdKBkQLIjoIzvMZUiKqsOKd5HCADMVMvyaKFVjfy0PxxI
+RPbnn0IGrKfVTqDaD3Q6eiZBJNXFAgMBAAGjggFZMIIBVTAJBgNVHRMEAjAAMBEG
+CWCGSAGG+EIBAQQEAwIGQDA0BglghkgBhvhCAQ0EJxYlRWFzeS1SU0EgR2VuZXJh
+dGVkIFNlcnZlciBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUmOpxDLux7/h1SsqFN8YF
+NKg/sMIwgb0GA1UdIwSBtTCBsoAUGkThiy1doxQuZmcFG8Zl3NlqEWahgY6kgYsw
+gYgxCzAJBgNVBAYTAkFSMQswCQYDVQQIEwJCQTEQMA4GA1UEBxMHU2FyYW5kaTEN
+MAsGA1UEChMETERJUjEMMAoGA1UECxQDUiZEMQwwCgYDVQQDEwNIYWwxDDAKBgNV
+BCkTA0hhbDEhMB8GCSqGSIb3DQEJARYSbWVAbXlob3N0Lm15ZG9tYWluggkAvTLe
+/qo8osgwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3
+DQEBBQUAA4IBAQAIvLrD0iKKskJ4fflvWkzxQomZGRU5z0Tpzb1xOimraqF0Eala
+JPG1aiZEMwd5/v8VFdSz+EfAplRax/l+OP2JUFV/AOTFSPtsWYsjh7M08870Ff7A
+LLmb1+svYmoPDNTcv1655LweQDEt1ins+7fyfW17WSv554wqjvLbyHHPIMRkH1ZZ
+NpeUDDV9zHDHwiUYBXL2tVXTndp+eVMOOxR8PRUcVTkI2U2DBv553zbChI51gEhe
+Z9pnGdbJ2kzTMPdk8WmPe0oW/sWtr9j3El2pQM8nV9kAVLK/KlOfMWr0EhDxXEjq
+TQfh+peYhZvOXlhcFwE+AyaRgsJunG7zy+w1
+-----END CERTIFICATE-----
